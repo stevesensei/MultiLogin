@@ -12,7 +12,7 @@ _✨ Coexisting Minecraft Authentication and Multiple BlessingSkin Authenticatio
 
 </div>
 
-## Summary
+## Summary5
 
 MultiLogin is a plugin designed primarily for Minecraft proxy,
 aimed at supporting the coexistence of Minecraft authentication and multiple BlessingSkin authentication.
